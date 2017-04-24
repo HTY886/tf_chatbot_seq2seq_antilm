@@ -1,3 +1,5 @@
+#This is from https://github.com/Marsan-Ma/tf_chatbot_seq2seq_antilm.git
+
 # Tensorflow chatbot
 ### (with seq2seq + attention + dict-compress + beam search + anti-LM + facebook messenger server)
 
