@@ -1,2 +1,2 @@
-tensorflow==0.10.0rc0
-jieba
+tensorflow==1.0.1
+jieba3k
